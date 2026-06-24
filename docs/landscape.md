@@ -64,6 +64,9 @@ Validation:
 - https://florianstrauf.substack.com/p/sounding-board
 
 Watch:
+- Sundial
+	- https://www.sundial.md/
+	- https://x.com/belindmo/status/2069840897676812669
 - Interpreter
 	- https://www.openinterpreter.com 
 	- https://x.com/hellokillian/status/2046317067276894499?s=12&t=Fl15mfB0gAAu0T5QMBcSWg
